@@ -1,0 +1,21 @@
+body {
+    background-color: #ead3cb;
+    font-family: Karla, Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h1 {
+    color: #ff0097;
+}
+h2 {
+    color: #588c7e;
+}
+.navbar {
+    list-style: none;
+    display: inline-flex;
+    font-size: larger;
+}
+.aletler {
+    list-style: square;
+}
+.urunler {
+    width: 200px;
+}
